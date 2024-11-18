@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulina!</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🌱 I’m currently learninging **Python**
+- 🌱 I’m currently learning **Python**
 
 - ⚡ Fun fact **This is my first time using GitHub**
 

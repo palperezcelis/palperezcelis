@@ -5,7 +5,6 @@
 
 - ⚡ Fun fact **This is my first time using GitHub**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
